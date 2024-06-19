@@ -1,0 +1,9 @@
+
+  .txtAdmin {
+    height: 40px !important;
+    margin-bottom: 10px;
+  }
+  .scrollable-div {
+    max-height: 800px; /* Set a maximum height */
+    overflow-y: auto; /* Enable vertical scrolling */
+  }
